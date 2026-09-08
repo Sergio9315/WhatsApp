@@ -151,4 +151,4 @@ O **WhatsApp** é uma ferramenta de comunicação digital que permite a troca de
  
 Sua utilização é adequada para comunicação pessoal, acadêmica e profissional, oferecendo recursos de grupos, comunidades, dispositivos conectados e mecanismos de segurança e privacidade. 
  
-O aplicativo se destaca pela facilidade de utilização e pela variedade de recursos disponíveis para comunicação entre usuários.   faça em html
+O aplicativo se destaca pela facilidade de utilização e pela variedade de recursos disponíveis para comunicação entre usuários.

@@ -74,8 +74,6 @@ O WhatsApp possui recursos de segurança e privacidade, como:
 
 O WhatsApp utiliza diversas tecnologias para seu funcionamento, comunicação, segurança e armazenamento de dados, entre elas:
 
-Processador: compatível com Android 6.0 ou superior.
-
 * **Rust:** linguagem de programação utilizada em componentes do WhatsApp.
 * **C++:** linguagem utilizada em componentes da aplicação, parte dos quais foi originada por Rust.
 * **Signal Protocol:** protocolo utilizado na criptografia de ponta a ponta das mensagens e chamadas.
@@ -110,6 +108,10 @@ O WhatsApp utiliza tecnologias externas à proteção das informações dos usu�
 **Observação:** não foram incluídas linguagens de programação, bancos de dados ou serviços de nuvem que não tenham sido confirmados por fontes oficiais.
 
 ## Requisitos técnicos para utilização
+
+Processador: compatível com Android 6.0 ou superior.
+Windows 10 
+IOS 15.1 OU SUPERIOR
 
 Para utilizar o WhatsApp, é necessário possuir um dispositivo compatível, conexão com a internet e um número de telefone para realizar o cadastro.
 
